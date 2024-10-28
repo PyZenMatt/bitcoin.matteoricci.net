@@ -171,8 +171,9 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  jekyll (~> 4.3.4)
   jekyll-archives
-  jekyll-feed
+  jekyll-feed (~> 0.15)
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
